@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gameferd.git/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/gameferd.git/static/js/main.264b8cd4.chunk.js",
+    "main.js.map": "/gameferd.git/static/js/main.264b8cd4.chunk.js.map",
+    "runtime-main.js": "/gameferd.git/static/js/runtime-main.b327786b.js",
+    "runtime-main.js.map": "/gameferd.git/static/js/runtime-main.b327786b.js.map",
+    "static/css/2.06689f82.chunk.css": "/gameferd.git/static/css/2.06689f82.chunk.css",
+    "static/js/2.fa8806b3.chunk.js": "/gameferd.git/static/js/2.fa8806b3.chunk.js",
+    "static/js/2.fa8806b3.chunk.js.map": "/gameferd.git/static/js/2.fa8806b3.chunk.js.map",
+    "index.html": "/gameferd.git/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/gameferd.git/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/gameferd.git/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.fa8806b3.chunk.js.LICENSE.txt": "/gameferd.git/static/js/2.fa8806b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b327786b.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.fa8806b3.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.264b8cd4.chunk.js"
+  ]
+}
