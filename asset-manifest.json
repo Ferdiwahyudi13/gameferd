@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gameferd/static/css/main.3cbc51fa.chunk.css",
-    "main.js": "/gameferd/static/js/main.4eb4a56e.chunk.js",
-    "main.js.map": "/gameferd/static/js/main.4eb4a56e.chunk.js.map",
+    "main.css": "/gameferd/static/css/main.1fe75352.chunk.css",
+    "main.js": "/gameferd/static/js/main.ee04480e.chunk.js",
+    "main.js.map": "/gameferd/static/js/main.ee04480e.chunk.js.map",
     "runtime-main.js": "/gameferd/static/js/runtime-main.1f689c91.js",
     "runtime-main.js.map": "/gameferd/static/js/runtime-main.1f689c91.js.map",
     "static/css/2.06689f82.chunk.css": "/gameferd/static/css/2.06689f82.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.902347de.chunk.js.map": "/gameferd/static/js/2.902347de.chunk.js.map",
     "index.html": "/gameferd/index.html",
     "static/css/2.06689f82.chunk.css.map": "/gameferd/static/css/2.06689f82.chunk.css.map",
-    "static/css/main.3cbc51fa.chunk.css.map": "/gameferd/static/css/main.3cbc51fa.chunk.css.map",
+    "static/css/main.1fe75352.chunk.css.map": "/gameferd/static/css/main.1fe75352.chunk.css.map",
     "static/js/2.902347de.chunk.js.LICENSE.txt": "/gameferd/static/js/2.902347de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f689c91.js",
     "static/css/2.06689f82.chunk.css",
     "static/js/2.902347de.chunk.js",
-    "static/css/main.3cbc51fa.chunk.css",
-    "static/js/main.4eb4a56e.chunk.js"
+    "static/css/main.1fe75352.chunk.css",
+    "static/js/main.ee04480e.chunk.js"
   ]
 }
